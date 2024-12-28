@@ -1,0 +1,33 @@
+.checkout {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.checkout h2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.checkout-items {
+  border-top: 1px solid #ddd;
+  margin-top: 1rem;
+}
+
+.checkout-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.checkout-summary {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 2px solid #4a90e2;
+}
+
+.checkout-summary p {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  color: #333;
+}

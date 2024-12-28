@@ -1,0 +1,17 @@
+
+.cart {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .cart h2 {
+    font-size: 1.75rem;
+    color: #333;
+  }
+  
+  .cart p {
+    font-size: 1.1rem;
+    color: #555
+  }
+  

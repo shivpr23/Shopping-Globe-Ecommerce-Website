@@ -1,0 +1,38 @@
+.product-item {
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.product-item h2 {
+  color: #333;
+  font-size: 1.2rem;
+}
+
+.product-item .details-link {
+  color: #4a90e2;
+  text-decoration: none;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.product-item button {
+  padding: 0.5rem 1rem;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  margin-top: 0.5rem;
+}
+
+.product-item button:hover {
+  background-color: #357ABD;
+}
+
+.product-thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,22 @@
+
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+}
+
+.product-item, .cart-item {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 5px;
+}
